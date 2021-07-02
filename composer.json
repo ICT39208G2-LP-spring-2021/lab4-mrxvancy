@@ -1,0 +1,12 @@
+{
+    "name": "nika/lab3-gabisonia",
+    "authors": [
+        {
+            "name": "nika gabisonia",
+            "email": "gabisonia.nika@gtu.ge"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
